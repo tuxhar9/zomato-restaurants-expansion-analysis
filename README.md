@@ -133,6 +133,25 @@ Correlation between pricing and ratings is weak.
 
 ---
 
+## 📊 Dashboard Screenshots
+
+### Main Dashboard
+![Dashboard](Images/dashboard.png)
+
+### Best Countries for Expansion
+![Countries](Images/countries.png)
+
+### Best Cities for Expansion
+![Cities](Images/cities.png)
+
+### Popular Cuisines
+![Cuisines](Images/cuisines.png)
+
+### Business Recommendations
+![Recommendations](Images/recommendations.png)
+
+---
+
 ## 📂 Project Files
 
 - Zomato_Tushar.xlsx
