@@ -160,12 +160,6 @@ Correlation between pricing and ratings is weak.
 
 ---
 
-## ✅ Project Status
-
-Accepted by Newton School Evaluation Team
-
----
-
 ## 👨‍💻 Author
 
 **Tushar Naha**
